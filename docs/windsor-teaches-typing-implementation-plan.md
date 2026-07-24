@@ -34,7 +34,7 @@ Phases are ordered by dependency — each phase generally assumes the ones above
   - [ ] Create-new-profile flow (name only, no login/password)
   - [ ] Profile select → enters app at their current level
 
-- [ ] **Phase 3 — Curriculum data**
+- [ ] ### Phase 3 — Curriculum data ###
   - [ ] Define level data structure: `keysIntroduced`, `allowedKeys`, `content`, `contentLength`
   - [ ] Author content for Levels 0–10 (per spec §3, §8), level by level:
     - [ ] Level 0 — keyboard orientation (no typing)
